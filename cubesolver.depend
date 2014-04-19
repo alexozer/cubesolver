@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1342581652 source:/home/alex/code/c/cubesolver/algs.cpp
+	"core.h"
+
+1342617116 /home/alex/code/c/cubesolver/core.h
+
+1343383702 source:/home/alex/code/c/cubesolver/main.cpp
+	<iostream>
+	"method.h"
+	"core.h"
+
+1343220850 /home/alex/code/c/cubesolver/method.h
+
+1343220850 source:/home/alex/code/c/cubesolver/core.cpp
+	"core.h"
+	<iostream>
+	<string>
+
